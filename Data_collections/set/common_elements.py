@@ -8,4 +8,5 @@ for i in a:
         c.add(i)
     # for j in b:
     #     if i==j:
+    #         c.add(i)
 print(c)

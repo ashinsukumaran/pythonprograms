@@ -9,6 +9,7 @@ for i in tupl1:
 # keeps order
 # support dupication
 # hetrogenoius
+
 # nesting possible
 
 tup=1,2,3,4,5,6,7,8,9

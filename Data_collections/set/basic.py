@@ -47,15 +47,15 @@
 # Union
 # Intersection
 # differnce
-
-a={1,2,3,4,5,6,7}
-b={3,4,5,7,8,9,0}
-
-
-print(a.union(b))
-print(a.intersection(b))
-print(a.difference(b))
-print(b.difference(a))
-
+#
+# a={1,2,3,4,5,6,7}
+# b={3,4,5,7,8,9,0}
+#
+#
+# print("union",a.union(b))
+# print("inter",a.intersection(b))
+# print("dif ab",a.difference(b))
+# print("dif ba",b.difference(a))
+# #
 
 
